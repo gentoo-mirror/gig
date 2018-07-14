@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure install postinst
+DEPEND=dev-util/cmake dev-libs/boost dev-libs/openssl dev-db/mysql-connector-c
+DESCRIPTION=An unidentifiable mechanism that helps you bypass GFW.
+EAPI=6
+HOMEPAGE=https://trojan-gfw.github.io/trojan/
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3.0
+RDEPEND=dev-util/cmake dev-libs/boost dev-libs/openssl dev-db/mysql-connector-c
+SLOT=0
+SRC_URI=https://github.com/trojan-gfw/trojan/archive/v1.5.0.tar.gz
+_md5_=d07ce3f8f1ea90f0ee7a9011c6092bdb
