@@ -7,6 +7,6 @@ KEYWORDS=~x86 ~amd64 ~arm
 LICENSE=FreeArt GPL-3+ Apache-2.0
 RDEPEND=>=dev-qt/qtcore-5.3.0:5 >=dev-qt/qtdbus-5.3.0:5 >=dev-qt/qtnetwork-5.3.0:5 >=dev-qt/qtwidgets-5.3.0:5 >=dev-qt/linguist-tools-5.3.0:5
 SLOT=0
-SRC_URI=http://github.com/lupoDharkael/flameshot/archive/v0.5.1.tar.gz -> flameshot-0.5.1.tar.gz
+SRC_URI=http://github.com/lupoDharkael/flameshot/archive/v0.6.0.tar.gz -> flameshot-0.6.0.tar.gz
 _eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	b2f01ad412baf81650c23fcf0975fa33	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	f164325a2cdb5b3ea39311d483988861	versionator	2352c3fc97241f6a02042773c8287748
 _md5_=38cf397fe37e585ecd3d651a9c81810f
