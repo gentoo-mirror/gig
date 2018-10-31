@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 RDEPEND=dev-util/pkgconfig x11-libs/libxcb dev-libs/libcdio media-libs/fontconfig dev-libs/libev x11-libs/libX11 x11-libs/libxkbcommon media-libs/libjpeg-turbo
 SLOT=0
-SRC_URI=https://github.com/PandorasFox/i3lock-color/archive/2.11-c.tar.gz
-_md5_=a64cda19ac2cd51e76c1164b68bd1cad
+SRC_URI=https://github.com/PandorasFox/i3lock-color/archive/2.12.c.tar.gz
+_md5_=5b72261bef310522648b6d3544c99836
