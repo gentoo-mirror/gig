@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm ~x86 ~mips
 LICENSE=Apache-2.0
 SLOT=0
 SRC_URI=amd64? ( https://github.com/fatedier/frp/releases/download/v0.21.0/frp_0.21.0_linux_amd64.tar.gz ) x86? ( https://github.com/fatedier/frp/releases/download/v0.21.0/frp_0.21.0_linux_386.tar.gz ) arm? ( https://github.com/fatedier/frp/releases/download/v0.21.0/frp_0.21.0_linux_arm.tar.gz ) arm64? ( https://github.com/fatedier/frp/releases/download/v0.21.0/frp_0.21.0_linux_arm.tar.gz ) mips? ( https://github.com/fatedier/frp/releases/download/v0.21.0/frp_0.21.0_linux_mips.tar.gz )
-_eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	systemd	71fd8d2065d102753fb9e4d20eaf3e9f	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_eclasses_=multilib	b2f01ad412baf81650c23fcf0975fa33	systemd	71fd8d2065d102753fb9e4d20eaf3e9f	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
 _md5_=8e4f114755e878061823119242492da0
