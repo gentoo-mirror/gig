@@ -1,4 +1,4 @@
-DEFINED_PHASES=install unpack
+DEFINED_PHASES=install postinst unpack
 DESCRIPTION=markdown editor
 EAPI=7
 HOMEPAGE=https://typora.io
@@ -7,4 +7,4 @@ LICENSE=EULA
 RDEPEND=x11-libs/libXScrnSaver
 SLOT=0
 SRC_URI=https://typora.io/linux/Typora-linux-x64.tar.gz
-_md5_=d8ae28792b3deb913764a177a0b11a57
+_md5_=4326e47352f81410f0ea455341f7c740
