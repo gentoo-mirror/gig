@@ -6,7 +6,6 @@ app-misc/tusk 0.11.0: Refined Evernote desktop app
 dev-python/docker-pycreds 0.3.0: Python bindings for the docker credentials store API
 dev-python/python-potr 1.0.2: pure Python Off-The-Record encryption
 dev-python/soundcloud-python 0.5.0: A friendly wrapper around the Soundcloud API
-dev-python/speedtest-cli 2.0.1: Command line interface for testing internet bandwidth using speedtest.net
 dev-python/wget 3.2: pure python download utility
 media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
 media-sound/scdl 1.3.3_beta1 9999: Soundcloud Music Downloader
