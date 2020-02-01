@@ -1,11 +1,11 @@
 DEFINED_PHASES=compile install postinst
 DEPEND=dev-util/pkgconf x11-libs/libxcb dev-libs/libcdio media-libs/fontconfig dev-libs/libev x11-libs/libX11 x11-libs/libxkbcommon media-libs/libjpeg-turbo
 DESCRIPTION=improved improved screen locker - 'the ricing fork of i3lock'
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/PandorasFox/i3lock-color
 KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 RDEPEND=dev-util/pkgconf x11-libs/libxcb dev-libs/libcdio media-libs/fontconfig dev-libs/libev x11-libs/libX11 x11-libs/libxkbcommon media-libs/libjpeg-turbo
 SLOT=0
 SRC_URI=https://github.com/PandorasFox/i3lock-color/archive/2.12.c.tar.gz
-_md5_=f0670f7ecd62b59d4f63d6f9e6d3da3d
+_md5_=5df221f66770bc4742996ce6e3d61c50

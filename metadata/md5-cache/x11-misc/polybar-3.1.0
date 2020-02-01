@@ -1,11 +1,11 @@
 DEFINED_PHASES=compile install
 DEPEND=x11-libs/cairo x11-libs/libxcb x11-proto/xproto x11-libs/xcb-util-image x11-libs/xcb-util-wm x11-libs/xcb-util-xrm
 DESCRIPTION=A fast and easy-to-use status bar
-EAPI=6
+EAPI=7
 HOMEPAGE=https://github.com/jaagr/polybar
 KEYWORDS=~amd64 ~x86
 LICENSE=MIT
 RDEPEND=x11-libs/cairo x11-libs/libxcb x11-proto/xproto x11-libs/xcb-util-image x11-libs/xcb-util-wm x11-libs/xcb-util-xrm
 SLOT=0
 SRC_URI=https://github.com/jaagr/polybar/releases/download/3.1.0/polybar.tar
-_md5_=2352b071d2ab6d1bfdc7f19cb676a420
+_md5_=5c6939bb2088d1321bb7d9b319d493e4
