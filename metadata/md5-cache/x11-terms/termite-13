@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install postinst prepare pretend setup unpack
+DEPEND=dev-libs/libpcre2 >=x11-libs/gtk+-3.0 >=x11-libs/vte-0.43.2:2.91[termite-patch(-)]
+DESCRIPTION=A keyboard-centric VTE-based terminal
+EAPI=7
+HOMEPAGE=https://github.com/thestinger/termite
+KEYWORDS=~amd64 ~x86
+LICENSE=LGPL-2+ MIT
+PROPERTIES=live
+RDEPEND=dev-libs/libpcre2 >=x11-libs/gtk+-3.0 >=x11-libs/vte-0.43.2:2.91[termite-patch(-)]
+SLOT=0
+_eclasses_=eutils	fcb2aa98e1948b835b5ae66ca52868c5	git-r3	86a0188f2ad9eb3d65e4d031ab8a0422	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_md5_=0ab1de1d42d47574d252b965bcb8facd

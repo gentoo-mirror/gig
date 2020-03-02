@@ -1,5 +1,5 @@
 app-admin/sosreport 3.8: Sos is an extensible, portable, support data collection tool primarily aimed at Linux distributions and other UNIX-like operating systems.
-app-editors/typora 20200101: markdown editor
+app-editors/typora 20200302: markdown editor
 app-misc/bat 0.7.1: A 'cat' clone with syntax highlighting and Git integration
 app-misc/tealdeer 1.1.0 1.2.0: A very fast implementation of tldr in Rust.
 app-misc/tusk 0.11.0: Refined Evernote desktop app
@@ -18,4 +18,5 @@ x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/i3lock-color 2.12: improved improved screen locker - 'the ricing fork of i3lock'
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/alacritty 0.2.1: GPU-accelerated terminal emulator
+x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
 x11-wm/i3-gaps 4.16: i3 with more features
