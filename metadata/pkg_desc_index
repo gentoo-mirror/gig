@@ -2,7 +2,7 @@ app-admin/sosreport 3.8: Sos is an extensible, portable, support data collection
 app-editors/typora 20200302: markdown editor
 app-misc/bat 0.7.1: A 'cat' clone with syntax highlighting and Git integration
 app-misc/tealdeer 1.1.0 1.2.0: A very fast implementation of tldr in Rust.
-app-misc/tusk 0.11.0: Refined Evernote desktop app
+app-misc/tusk 0.23.0: Refined Evernote desktop app
 dev-python/docker-pycreds 0.3.0: Python bindings for the docker credentials store API
 dev-python/python-potr 1.0.2: pure Python Off-The-Record encryption
 dev-python/soundcloud-python 0.5.0: A friendly wrapper around the Soundcloud API
