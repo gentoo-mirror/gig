@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile configure install postinst unpack
+DEPEND=dev-util/pkgconf x11-libs/libxcb dev-libs/libcdio media-libs/fontconfig dev-libs/libev x11-libs/libX11 x11-libs/libxkbcommon media-libs/libjpeg-turbo
+DESCRIPTION=improved improved screen locker - 'the ricing fork of i3lock'
+EAPI=7
+HOMEPAGE=https://github.com/PandorasFox/i3lock-color
+LICENSE=BSD
+PROPERTIES=live
+RDEPEND=dev-util/pkgconf x11-libs/libxcb dev-libs/libcdio media-libs/fontconfig dev-libs/libev x11-libs/libX11 x11-libs/libxkbcommon media-libs/libjpeg-turbo
+SLOT=0
+_eclasses_=git-r3	86a0188f2ad9eb3d65e4d031ab8a0422
+_md5_=5240fdeb2674bbbfc2cbc7fe7640f20b

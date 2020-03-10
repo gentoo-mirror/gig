@@ -15,7 +15,7 @@ net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
 x11-libs/vte 0.48.4: Library providing a virtual terminal emulator widget
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
-x11-misc/i3lock-color 2.12: improved improved screen locker - 'the ricing fork of i3lock'
+x11-misc/i3lock-color 2.12 9999: improved improved screen locker - 'the ricing fork of i3lock'
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/alacritty 0.2.1: GPU-accelerated terminal emulator
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
