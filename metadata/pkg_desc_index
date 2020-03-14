@@ -1,4 +1,5 @@
 app-admin/sosreport 3.8: Sos is an extensible, portable, support data collection tool primarily aimed at Linux distributions and other UNIX-like operating systems.
+app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Database
 app-editors/typora 20200302: markdown editor
 app-misc/bat 0.7.1: A 'cat' clone with syntax highlighting and Git integration
 app-misc/tealdeer 1.1.0 1.2.0: A very fast implementation of tldr in Rust.
