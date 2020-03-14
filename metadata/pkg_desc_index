@@ -22,4 +22,3 @@ x11-misc/i3lock-color 2.12 9999: improved improved screen locker - 'the ricing f
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/alacritty 0.2.1: GPU-accelerated terminal emulator
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
-x11-wm/i3-gaps 4.16: i3 with more features
