@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst postrm preinst prepare unpack
+DEPEND=gnome-base/gconf x11-libs/libXScrnSaver x11-libs/libXtst dev-libs/nss media-libs/alsa-lib x11-libs/gtk+:2 dev-util/desktop-file-utils x11-misc/shared-mime-info
+DESCRIPTION=A sophisticated software modeler for agile and concise modeling
+EAPI=7
+HOMEPAGE=http://staruml.io/
+KEYWORDS=~amd64 ~x86
+LICENSE=staruml
+RDEPEND=gnome-base/gconf x11-libs/libXScrnSaver x11-libs/libXtst dev-libs/nss media-libs/alsa-lib x11-libs/gtk+:2
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=amd64? ( http://staruml.io/download/releases/StarUML-3.2.2.AppImage ) x86? ( http://staruml.io/download/releases/StarUML-3.2.2-i386.AppImage -> StarUML-3.2.2.AppImage )
+_eclasses_=desktop	b1d22ac8bdd4679ab79c71aca235009d	xdg	c7ba313ea1eaf266f95cc6235f7d6a07	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=6f377299e1d1b103d1051eb255aac4eb
