@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=games-strategy/0ad-0.0.23b
+DESCRIPTION=chinese support for 0ad
+EAPI=7
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=games-strategy/0ad-0.0.23b
+SLOT=0
+SRC_URI=http://releases.wildfiregames.com/locales/zh-lang-0.0.23b.pyromod -> zh-lang-0.0.23b.zip
+_md5_=78aeda575beca27911212c3edc3f9e7e
