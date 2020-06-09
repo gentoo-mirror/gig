@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=games-strategy/0ad-0.0.23b_alpha
+DESCRIPTION=0ad delenda est mod
+EAPI=7
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=games-strategy/0ad-0.0.23b_alpha
+SLOT=0
+SRC_URI=https://binary.lge.modcdn.io/mods/698d/111/delenda_est_r02.zip -> 0ad-delenda-est-02.zip
+_md5_=b9979ea4c89ec18dab19d97cf23f38d6

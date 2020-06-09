@@ -11,6 +11,7 @@ dev-python/python-potr 1.0.2: pure Python Off-The-Record encryption
 dev-python/soundcloud-python 0.5.0: A friendly wrapper around the Soundcloud API
 dev-python/wget 3.2: pure python download utility
 dev-util/StarUML 3.2.2: A sophisticated software modeler for agile and concise modeling
+games-strategy/0ad-delenda-est 02: 0ad delenda est mod
 games-strategy/0ad-zh-lang 0.0.23b: chinese support for 0ad
 media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
 media-gfx/flameshot 0.6.0 9999: Powerful yet simple to use screenshot software for GNU/Linux
