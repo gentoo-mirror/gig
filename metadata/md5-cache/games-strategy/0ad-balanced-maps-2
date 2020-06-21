@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DEPEND=>=games-strategy/0ad-0.0.23b_alpha
+DESCRIPTION=0ad balanced maps mod
+EAPI=7
+KEYWORDS=~amd64 ~x86
+RDEPEND=>=games-strategy/0ad-0.0.23b_alpha
+SLOT=0
+SRC_URI=https://binary.modcdn.io/mods/b557/85517/balanced-maps.2.zip -> 0ad-balanced-maps-2.zip
+_md5_=3cfe7bcd13d3c3a94300596af461212a
