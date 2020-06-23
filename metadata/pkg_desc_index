@@ -6,6 +6,7 @@ app-misc/bat 0.7.1: A 'cat' clone with syntax highlighting and Git integration
 app-misc/piper 0.4: GTK application to configure gaming devices
 app-misc/tusk 0.23.0: Refined Evernote desktop app
 app-misc/urlview 0.9_p21: A curses URL parser for text files
+dev-libs/libratbag 0.14: A DBus daemon to configure input devices, mainly high-end/gaming mice
 dev-python/docker-pycreds 0.3.0: Python bindings for the docker credentials store API
 dev-python/python-potr 1.0.2: pure Python Off-The-Record encryption
 dev-python/soundcloud-python 0.5.0: A friendly wrapper around the Soundcloud API
