@@ -3,7 +3,7 @@ app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Datab
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
 app-editors/typora 20200320: markdown editor
 app-misc/bat 0.7.1: A 'cat' clone with syntax highlighting and Git integration
-app-misc/piper 0.4: GTK application to configure gaming devices
+app-misc/piper 0.4 0.5.1: GTK application to configure gaming devices
 app-misc/tusk 0.23.0: Refined Evernote desktop app
 app-misc/urlview 0.9_p21: A curses URL parser for text files
 dev-libs/libratbag 0.14: A DBus daemon to configure input devices, mainly high-end/gaming mice
@@ -23,6 +23,7 @@ net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
 x11-libs/vte 0.48.4: Library providing a virtual terminal emulator widget
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
+x11-misc/optimus-manager 9999: Management utility to handle GPU switching for Optimus laptops
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/alacritty 0.2.1: GPU-accelerated terminal emulator
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
