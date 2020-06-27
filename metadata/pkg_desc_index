@@ -22,6 +22,7 @@ net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
 net-proxy/v2rayxplus 1.0.0: A v2ray GUI client written in GO
+sys-kernel/zenpower 0.1.12: Zenpower is Linux kernel driver for reading temperature for AMD Zen family CPUs
 x11-libs/vte 0.48.4: Library providing a virtual terminal emulator widget
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/optimus-manager 9999: Management utility to handle GPU switching for Optimus laptops
