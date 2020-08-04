@@ -1,4 +1,5 @@
 app-admin/sosreport 3.8: Sos is an extensible, portable, support data collection tool primarily aimed at Linux distributions and other UNIX-like operating systems.
+app-crypt/archlinux-keyring 20200622: GnuPG keyring of Archlinux developer keys
 app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Database
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
 app-editors/typora 20200706: markdown editor
@@ -22,6 +23,9 @@ net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
 net-proxy/v2rayxplus 1.0.0: A v2ray GUI client written in GO
+sys-apps/pacman 5.2.2: Archlinux's binary package manager
+sys-apps/pacman-mirrorlist 20200801: Repository list for Archlinux's binary package manager
+sys-devel/arch-install-scripts 23: Scripts to aid in installing Arch Linux
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 x11-libs/vte 0.48.4: Library providing a virtual terminal emulator widget
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux

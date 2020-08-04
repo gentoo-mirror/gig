@@ -1,0 +1,15 @@
+BDEPEND=app-text/asciidoc doc? ( app-doc/doxygen ) >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DEFINED_PHASES=configure install postinst prepare
+DEPEND=app-crypt/archlinux-keyring app-arch/libarchive:=[lzma] gpg? ( >=app-crypt/gpgme-1.13.0:= ) curl? ( net-misc/curl ) !libressl? ( dev-libs/openssl:0= ) libressl? ( dev-libs/libressl:0= ) virtual/libiconv virtual/libintl test? ( sys-apps/fakeroot sys-apps/fakechroot )
+DESCRIPTION=Archlinux's binary package manager
+EAPI=7
+HOMEPAGE=https://archlinux.org/pacman https://wiki.archlinux.org/index.php/Pacman
+IUSE=curl debug doc +gpg libressl test
+KEYWORDS=-* ~amd64
+LICENSE=GPL-2
+RDEPEND=app-crypt/archlinux-keyring app-arch/libarchive:=[lzma] gpg? ( >=app-crypt/gpgme-1.13.0:= ) curl? ( net-misc/curl ) !libressl? ( dev-libs/openssl:0= ) libressl? ( dev-libs/libressl:0= ) virtual/libiconv virtual/libintl test? ( sys-apps/fakeroot sys-apps/fakechroot ) sys-apps/pacman-mirrorlist
+RESTRICT=test
+SLOT=0/10
+SRC_URI=https://sources.archlinux.org/other/pacman/pacman-5.2.2.tar.gz
+_eclasses_=autotools	7d999b62b8749fad43fff00620cedf47	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	2477ebe553d3e4d2c606191fe6c33602	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_md5_=be6d3958dee6f912e2c3a53df09323e3
