@@ -2,7 +2,7 @@ app-admin/sosreport 3.8: Sos is an extensible, portable, support data collection
 app-crypt/archlinux-keyring 20200622: GnuPG keyring of Archlinux developer keys
 app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Database
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
-app-editors/typora 20200706: markdown editor
+app-editors/typora 20200930: markdown editor
 app-misc/bat 0.7.1: A 'cat' clone with syntax highlighting and Git integration
 app-misc/piper 0.4 0.5.1: GTK application to configure gaming devices
 app-misc/tusk 0.23.0: Refined Evernote desktop app
