@@ -1,4 +1,3 @@
-app-admin/sosreport 3.8: Sos is an extensible, portable, support data collection tool primarily aimed at Linux distributions and other UNIX-like operating systems.
 app-crypt/archlinux-keyring 20200622: GnuPG keyring of Archlinux developer keys
 app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Database
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
