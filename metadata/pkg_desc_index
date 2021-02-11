@@ -17,7 +17,6 @@ games-strategy/0ad-balanced-maps 2: 0ad balanced maps mod
 games-strategy/0ad-delenda-est 02: 0ad delenda est mod
 games-strategy/0ad-zh-lang 0.0.23b: chinese support for 0ad
 media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
-net-irc/irccloud-desktop 0.15.0: IRCCloud Desktop Client
 net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
