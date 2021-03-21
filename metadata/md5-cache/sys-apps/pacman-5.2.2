@@ -4,6 +4,7 @@ DEPEND=app-crypt/archlinux-keyring app-arch/libarchive:=[lzma] gpg? ( >=app-cryp
 DESCRIPTION=Archlinux's binary package manager
 EAPI=7
 HOMEPAGE=https://archlinux.org/pacman https://wiki.archlinux.org/index.php/Pacman
+INHERIT=autotools
 IUSE=curl debug doc +gpg libressl test
 KEYWORDS=-* ~amd64
 LICENSE=GPL-2
@@ -11,5 +12,5 @@ RDEPEND=app-crypt/archlinux-keyring app-arch/libarchive:=[lzma] gpg? ( >=app-cry
 RESTRICT=test
 SLOT=0/10
 SRC_URI=https://sources.archlinux.org/other/pacman/pacman-5.2.2.tar.gz
-_eclasses_=autotools	9988ecbe04129214297a7bbf3d253710	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	4ba6c345bf49883c84d5fa5c9bf40c0b
 _md5_=be6d3958dee6f912e2c3a53df09323e3
