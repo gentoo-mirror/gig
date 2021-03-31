@@ -3,6 +3,7 @@ DEPEND=|| ( >=app-text/stardict-2.4.2 app-text/sdcv app-text/goldendict ) gzip? 
 DESCRIPTION=Free English to Chinese Dictionary Database
 EAPI=7
 HOMEPAGE=https://github.com/skywind3000/ECDICT
+INHERIT=stardict
 IUSE=+gzip gzip
 KEYWORDS=~amd64 ~x86
 LICENSE=MIT
