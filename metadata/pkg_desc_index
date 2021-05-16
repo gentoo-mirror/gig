@@ -27,7 +27,7 @@ sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen f
 x11-libs/vte 0.48.4: Library providing a virtual terminal emulator widget
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/optimus-manager 1.4: Management utility to handle GPU switching for Optimus laptops
-x11-misc/optimus-manager-qt 1.6.2: Qt-based interface for Optimus Manager
+x11-misc/optimus-manager-qt 1.6.3: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/alacritty 0.2.1: GPU-accelerated terminal emulator
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
