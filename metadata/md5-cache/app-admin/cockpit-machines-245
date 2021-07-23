@@ -8,9 +8,9 @@ INHERIT=python-single-r1
 IUSE=python_single_target_python3_9 python_single_target_python3_10
 KEYWORDS=~amd64 ~x86
 LICENSE=LGPL-2.1
-RDEPEND=>=sys-apps/cockpit-245 app-emulation/libvirt-dbus app-emulation/libvirt[firewalld,policykit] app-emulation/virt-manager[policykit] python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) python_single_target_python3_10? ( dev-lang/python:3.10 >=dev-lang/python-exec-2:=[python_targets_python3_10] )
+RDEPEND=>=app-admin/cockpit-245 app-emulation/libvirt-dbus app-emulation/libvirt[firewalld,policykit] app-emulation/virt-manager[policykit] python_single_target_python3_9? ( dev-lang/python:3.9 >=dev-lang/python-exec-2:=[python_targets_python3_9] ) python_single_target_python3_10? ( dev-lang/python:3.10 >=dev-lang/python-exec-2:=[python_targets_python3_10] )
 REQUIRED_USE=^^ ( python_single_target_python3_9 python_single_target_python3_10 )
 SLOT=0
 SRC_URI=https://github.com/cockpit-project/cockpit-machines/releases/download/245/cockpit-machines-245.tar.gz
 _eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	python-utils-r1	2f5967e7ced9abfa71ff7b0ea8d61b3a	python-single-r1	73f113f91928e0d16bceb65ecbcd8e75
-_md5_=3d4b45fb388b314bc7bca36c703cb11a
+_md5_=518fc15e918ce071e5a0c508a999394c
