@@ -19,7 +19,7 @@ app-dicts/translator 9999: Command line aggregation translation tool, support Go
 app-editors/typora 20200930: markdown editor
 app-emulation/libvirt-dbus 1.4.0: DBus protocol binding for libvirt native C API
 app-emulation/looking-glass 0_beta4_rc3 0_beta4: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
-app-metrics/pcp 5.3.1 9999: Performance Co-Pilot, system performance and analysis framework
+app-metrics/pcp 5.3.1 5.3.2 9999: Performance Co-Pilot, system performance and analysis framework
 app-misc/bat 0.7.1: A 'cat' clone with syntax highlighting and Git integration
 app-misc/tusk 0.23.0: Refined Evernote desktop app
 app-misc/urlview 0.9_p21: A curses URL parser for text files
