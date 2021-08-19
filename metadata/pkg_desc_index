@@ -6,10 +6,10 @@ acct-user/cockpit-ws 0: System user: cockpit-ws
 acct-user/cockpit-wsinstance 0: System user: cockpit-wsinstance
 acct-user/libvirtdbus 0: Libvirt D-Bus bridge
 acct-user/pcp 0: Performance Co-Pilot
-app-admin/cockpit 246 249 250: Server Administration Web Interface
+app-admin/cockpit 246 249 250 251: Server Administration Web Interface
 app-admin/cockpit-benchmark 0.1.0 0.2.1: A Storage Benchmark Utility for Cockpit.
-app-admin/cockpit-file-sharing 1.0.0 2.1.0: A Cockpit plugin to easily manage samba and NFS file sharing.
-app-admin/cockpit-machines 245 248 249 249.1: This is the Cockpit user interface for virtual machines
+app-admin/cockpit-file-sharing 1.0.0 2.3.0: A Cockpit plugin to easily manage samba and NFS file sharing.
+app-admin/cockpit-machines 245 248 249 249.1 250: This is the Cockpit user interface for virtual machines
 app-admin/cockpit-navigator 0.5.4: A Featureful File Browser for Cockpit.
 app-admin/cockpit-zfs-manager 0.3.4.514: Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 app-admin/sosreport 3.8: Sos is an extensible, portable, support data collection tool primarily aimed at Linux distributions and other UNIX-like operating systems.
