@@ -8,7 +8,7 @@ acct-user/libvirtdbus 0: Libvirt D-Bus bridge
 acct-user/pcp 0: Performance Co-Pilot
 app-admin/cockpit 246 249 250 251: Server Administration Web Interface
 app-admin/cockpit-benchmark 0.1.0 0.2.1: A Storage Benchmark Utility for Cockpit.
-app-admin/cockpit-file-sharing 1.0.0 2.3.0: A Cockpit plugin to easily manage samba and NFS file sharing.
+app-admin/cockpit-file-sharing 1.0.0 2.3.1: A Cockpit plugin to easily manage samba and NFS file sharing.
 app-admin/cockpit-machines 245 248 249 249.1 250: This is the Cockpit user interface for virtual machines
 app-admin/cockpit-navigator 0.5.4: A Featureful File Browser for Cockpit.
 app-admin/cockpit-zfs-manager 0.3.4.514: Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
@@ -44,7 +44,7 @@ sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen f
 x11-libs/vte 0.48.4: Library providing a virtual terminal emulator widget
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/optimus-manager 1.4: Management utility to handle GPU switching for Optimus laptops
-x11-misc/optimus-manager-qt 1.6.3: Qt-based interface for Optimus Manager
+x11-misc/optimus-manager-qt 1.6.4: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/alacritty 0.2.1: GPU-accelerated terminal emulator
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
