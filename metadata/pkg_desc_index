@@ -16,11 +16,9 @@ app-admin/sosreport 3.8: Sos is an extensible, portable, support data collection
 app-crypt/archlinux-keyring 20200622: GnuPG keyring of Archlinux developer keys
 app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Database
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
-app-editors/typora 20200930: markdown editor
 app-emulation/libvirt-dbus 1.4.0: DBus protocol binding for libvirt native C API
 app-emulation/looking-glass 0_beta4_rc3 0_beta4: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 app-metrics/pcp 5.3.1 5.3.2 5.3.3 9999: Performance Co-Pilot, system performance and analysis framework
-app-misc/bat 0.7.1: A 'cat' clone with syntax highlighting and Git integration
 app-misc/tusk 0.23.0: Refined Evernote desktop app
 app-misc/urlview 0.9_p21: A curses URL parser for text files
 dev-python/docker-pycreds 0.3.0: Python bindings for the docker credentials store API
@@ -46,5 +44,4 @@ x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/optimus-manager 1.4: Management utility to handle GPU switching for Optimus laptops
 x11-misc/optimus-manager-qt 1.6.4: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
-x11-terms/alacritty 0.2.1: GPU-accelerated terminal emulator
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
