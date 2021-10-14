@@ -13,6 +13,8 @@ app-metrics/pcp:perfevent - Perfevent pmda
 app-metrics/pcp:pie - Build position-independent-executable
 app-metrics/pcp:ssp - Enable gcc stack-protector
 app-metrics/pcp:systemd - Support for systemd services
+games-board/majsoul-plus:file-deletion - Enable file deletion support
+games-board/majsoul-plus:xdg - Open URLs with desktop's default
 x11-misc/optimus-manager:lightdm - Enable support for LightDM
 x11-misc/optimus-manager:sddm - Enable support for SDDM
 x11-misc/optimus-manager-qt:plasma - Enable support for plasma
