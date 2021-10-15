@@ -6,7 +6,7 @@ acct-user/cockpit-ws 0: System user: cockpit-ws
 acct-user/cockpit-wsinstance 0: System user: cockpit-wsinstance
 acct-user/libvirtdbus 0: Libvirt D-Bus bridge
 acct-user/pcp 0: Performance Co-Pilot
-app-admin/cockpit 246 249 250 251 252 253 254 255: Server Administration Web Interface
+app-admin/cockpit 246 249 250 251 252 253 254 255.1: Server Administration Web Interface
 app-admin/cockpit-benchmark 0.1.0 0.2.1: A Storage Benchmark Utility for Cockpit.
 app-admin/cockpit-file-sharing 2.3.1 2.4.0 2.4.1: A Cockpit plugin to easily manage samba and NFS file sharing.
 app-admin/cockpit-machines 245 248 249 249.1 250 251 252 253 254: This is the Cockpit user interface for virtual machines
