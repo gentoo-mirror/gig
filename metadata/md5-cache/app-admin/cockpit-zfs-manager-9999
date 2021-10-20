@@ -1,10 +1,12 @@
-DEFINED_PHASES=install
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
 DESCRIPTION=Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 EAPI=8
 HOMEPAGE=https://github.com/optimans/cockpit-zfs-manager
-KEYWORDS=~amd64
+INHERIT=git-r3
 LICENSE=LGPL-3
+PROPERTIES=live
 RDEPEND=>=app-admin/cockpit-201 >=sys-fs/zfs-0.8
 SLOT=0
-SRC_URI=https://github.com/optimans/cockpit-zfs-manager/archive/refs/tags/0.3.4.514.tar.gz -> cockpit-zfs-manager-0.3.4.514.tar.gz
-_md5_=9cbf548c9b504e63074bed13d685b363
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=ca4c722773fc83097457e4561ea5ddc8
