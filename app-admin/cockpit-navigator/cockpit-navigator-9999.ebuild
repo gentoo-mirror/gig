@@ -5,23 +5,16 @@ EAPI=8
 
 PYTHON_COMPAT=(python3_{9..10})
 
-inherit python-single-r1
+inherit python-single-r1 git-r3
 
 DESCRIPTION="A Featureful File Browser for Cockpit."
 HOMEPAGE="https://github.com/45Drives/cockpit-navigator"
 
-if [[ ${PV} == 9999* ]] ; then
-	inherit git-r3
-	EGIT_REPO_URI="${HOMEPAGE}"
-	KEYWORDS=""
-	SRC_URI=""
-else
-	KEYWORDS="~amd64"
-	SRC_URI="${HOMEPAGE}/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
-fi
+EGIT_REPO_URI="https://github.com/45Drives/cockpit-navigator"
 
 LICENSE="GPL-3"
 SLOT="0"
+KEYWORDS=""
 
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 

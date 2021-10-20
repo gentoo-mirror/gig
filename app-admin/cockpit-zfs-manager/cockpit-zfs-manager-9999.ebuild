@@ -3,13 +3,15 @@
 
 EAPI=8
 
+inherit git-r3
+
 DESCRIPTION="Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit."
 HOMEPAGE="https://github.com/optimans/cockpit-zfs-manager"
-SRC_URI="https://github.com/optimans/cockpit-zfs-manager/archive/refs/tags/${PV}.tar.gz -> ${P}.tar.gz"
+EGIT_REPO_URI="https://github.com/optimans/cockpit-zfs-manager"
 
 LICENSE="LGPL-3"
 SLOT="0"
-KEYWORDS="~amd64"
+KEYWORDS=""
 
 DEPEND=""
 BDEPEND=""

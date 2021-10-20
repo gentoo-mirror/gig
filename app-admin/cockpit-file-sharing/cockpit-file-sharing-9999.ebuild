@@ -5,20 +5,13 @@ EAPI=8
 
 PYTHON_COMPAT=(python3_{9..10})
 
-inherit python-single-r1
+inherit python-single-r1 git-r3
 
 DESCRIPTION="A Cockpit plugin to easily manage samba and NFS file sharing."
 HOMEPAGE="https://github.com/45Drives/cockpit-file-sharing"
 
-if [[ ${PV} == 9999* ]] ; then
-	inherit git-r3
-	EGIT_REPO_URI="${HOMEPAGE}"
-	KEYWORDS=""
-	SRC_URI=""
-else
-	KEYWORDS="~amd64"
-	SRC_URI="${HOMEPAGE}/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
-fi
+EGIT_REPO_URI="https://github.com/45Drives/cockpit-file-sharing"
+KEYWORDS=""
 
 LICENSE="GPL-3"
 SLOT="0"

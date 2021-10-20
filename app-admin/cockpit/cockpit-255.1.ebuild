@@ -7,19 +7,11 @@ inherit autotools eutils pam systemd
 
 DESCRIPTION="Server Administration Web Interface "
 HOMEPAGE="http://cockpit-project.org/"
-
-if [[ ${PV} == 9999* ]] ; then
-	inherit git-r3
-	EGIT_REPO_URI="https://github.com/cockpit-project/cockpit.git"
-	KEYWORDS=""
-	SRC_URI=""
-else
-	KEYWORDS="~amd64"
-	SRC_URI="https://github.com/cockpit-project/${PN}/releases/download/${PV}/${P}.tar.xz"
-fi
+SRC_URI="https://github.com/cockpit-project/${PN}/releases/download/${PV}/${P}.tar.xz"
 
 LICENSE="LGPL-2.1+"
 SLOT="0"
+KEYWORDS="~amd64"
 IUSE="debug doc firewalld +networkmanager pcp selinux udisks tuned"
 
 BDEPEND="
