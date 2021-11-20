@@ -9,7 +9,7 @@ acct-user/pcp 0: Performance Co-Pilot
 app-admin/cockpit 257 9999: Server Administration Web Interface
 app-admin/cockpit-benchmark 0.2.1 9999: A Storage Benchmark Utility for Cockpit.
 app-admin/cockpit-file-sharing 2.4.1 9999: A Cockpit plugin to easily manage samba and NFS file sharing.
-app-admin/cockpit-machines 256: This is the Cockpit user interface for virtual machines
+app-admin/cockpit-machines 257: This is the Cockpit user interface for virtual machines
 app-admin/cockpit-navigator 0.5.6 9999: A Featureful File Browser for Cockpit.
 app-admin/cockpit-zfs-manager 0.3.4.514 9999: Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 app-crypt/archlinux-keyring 20200622: GnuPG keyring of Archlinux developer keys
