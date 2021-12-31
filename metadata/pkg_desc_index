@@ -18,7 +18,7 @@ app-dicts/translator 9999: Command line aggregation translation tool, support Go
 app-emulation/libvirt-dbus 1.4.0: DBus protocol binding for libvirt native C API
 app-emulation/looking-glass 0_beta5_rc1 0_beta5: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 app-metrics/pcp 5.3.5 9999: Performance Co-Pilot, system performance and analysis framework
-app-misc/notion-app-enhanced 2.0.16.5: Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux
+app-misc/notion-app-enhanced 2.0.18.1: Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux
 app-misc/tusk 0.23.0: Refined Evernote desktop app
 app-misc/urlview 0.9_p21: A curses URL parser for text files
 dev-python/docker-pycreds 0.3.0: Python bindings for the docker credentials store API
