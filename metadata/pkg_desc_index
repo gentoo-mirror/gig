@@ -6,7 +6,7 @@ acct-user/cockpit-ws 0: System user: cockpit-ws
 acct-user/cockpit-wsinstance 0: System user: cockpit-wsinstance
 acct-user/libvirtdbus 0: Libvirt D-Bus bridge
 acct-user/pcp 0: Performance Co-Pilot
-app-admin/cockpit 268.1 9999: Server Administration Web Interface
+app-admin/cockpit 269 9999: Server Administration Web Interface
 app-admin/cockpit-benchmark 0.2.1 9999: A Storage Benchmark Utility for Cockpit.
 app-admin/cockpit-file-sharing 2.4.5 9999: A Cockpit plugin to easily manage samba and NFS file sharing.
 app-admin/cockpit-machines 266: This is the Cockpit user interface for virtual machines
@@ -17,7 +17,7 @@ app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Datab
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
 app-emulation/libvirt-dbus 1.4.0: DBus protocol binding for libvirt native C API
 app-emulation/looking-glass 0_beta5_rc1 0_beta5: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
-app-metrics/pcp 5.3.6 9999: Performance Co-Pilot, system performance and analysis framework
+app-metrics/pcp 5.3.7 9999: Performance Co-Pilot, system performance and analysis framework
 app-misc/notion-app-enhanced 2.0.18.1: Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux
 app-misc/tusk 0.23.0: Refined Evernote desktop app
 app-misc/urlview 0.9_p21: A curses URL parser for text files
@@ -43,6 +43,6 @@ sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen f
 x11-libs/vte 0.48.4: Library providing a virtual terminal emulator widget
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/optimus-manager 1.4: Management utility to handle GPU switching for Optimus laptops
-x11-misc/optimus-manager-qt 1.6.5: Qt-based interface for Optimus Manager
+x11-misc/optimus-manager-qt 1.6.6: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
