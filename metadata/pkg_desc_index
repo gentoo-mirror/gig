@@ -46,4 +46,5 @@ x11-misc/optimus-manager 1.4: Management utility to handle GPU switching for Opt
 x11-misc/optimus-manager-qt 1.6.9: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
+x11-themes/materia-gtk-theme 20210322: Materia is a Material Design theme for GNOME/GTK based desktop environments.
 x11-themes/materia-kde 20220823: This is a port of the popular GTK theme Materia for the Plasma 5 desktop with a few additions and extras.
