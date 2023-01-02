@@ -43,7 +43,6 @@ sys-apps/pacman 5.2.2: Archlinux's binary package manager
 sys-apps/pacman-mirrorlist 20200801: Repository list for Archlinux's binary package manager
 sys-devel/arch-install-scripts 23: Scripts to aid in installing Arch Linux
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
-x11-libs/vte 0.48.4: Library providing a virtual terminal emulator widget
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/optimus-manager 1.4: Management utility to handle GPU switching for Optimus laptops
 x11-misc/optimus-manager-qt 1.6.9: Qt-based interface for Optimus Manager
