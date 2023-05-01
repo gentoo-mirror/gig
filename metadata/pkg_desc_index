@@ -33,7 +33,6 @@ games-strategy/0ad-zh-lang 0.0.23b: chinese support for 0ad
 kde-misc/kde-rounded-corners 0.2.0: This effect rounds the corners of your windows and adds an outline around them without much affecting the performance of the KDE Plasma desktop
 media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
 media-gfx/printrun 9999: Printrun is a 3D printing host software suite which talks to your printer and handles the printing process
-media-sound/scdl 1.3.3_beta1 9999: Soundcloud Music Downloader
 net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
@@ -43,7 +42,6 @@ sys-apps/pacman-mirrorlist 20200801: Repository list for Archlinux's binary pack
 sys-devel/arch-install-scripts 23: Scripts to aid in installing Arch Linux
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
-x11-misc/optimus-manager 1.4: Management utility to handle GPU switching for Optimus laptops
 x11-misc/optimus-manager-qt 1.6.9: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
