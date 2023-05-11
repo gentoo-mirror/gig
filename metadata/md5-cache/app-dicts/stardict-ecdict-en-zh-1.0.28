@@ -11,5 +11,5 @@ REQUIRED_USE=gzip
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/skywind3000/ECDICT/releases/download/1.0.28/ecdict-stardict-28.zip -> stardict-ecdict-en-zh-1.0.28.zip
-_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	stardict	14ab2d66e426df2f1125bbc535f3cd7b
+_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	stardict	dc2254be137c6e77293065d79fed2550
 _md5_=11e7f8d7ee0d8ac810ae5b03924ed7ae
