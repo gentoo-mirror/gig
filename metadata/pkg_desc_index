@@ -6,7 +6,7 @@ acct-user/cockpit-ws 0: System user: cockpit-ws
 acct-user/cockpit-wsinstance 0: System user: cockpit-wsinstance
 acct-user/libvirtdbus 0: Libvirt D-Bus bridge
 acct-user/pcp 0: Performance Co-Pilot
-app-admin/cockpit 291 9999: Server Administration Web Interface
+app-admin/cockpit 293 9999: Server Administration Web Interface
 app-admin/cockpit-benchmark 0.2.1 9999: A Storage Benchmark Utility for Cockpit.
 app-admin/cockpit-file-sharing 2.4.5 9999: A Cockpit plugin to easily manage samba and NFS file sharing.
 app-admin/cockpit-machines 266: This is the Cockpit user interface for virtual machines
@@ -18,7 +18,7 @@ app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Datab
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
 app-emulation/libvirt-dbus 1.4.0: DBus protocol binding for libvirt native C API
 app-emulation/looking-glass 0_beta5 0_beta6: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
-app-metrics/pcp 6.0.0 9999: Performance Co-Pilot, system performance and analysis framework
+app-metrics/pcp 6.0.4 9999: Performance Co-Pilot, system performance and analysis framework
 app-misc/1password 8.10.4: The world's most-loved password manager
 app-misc/notion-app-enhanced 2.0.18.1: Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux
 app-misc/tusk 0.23.0: Refined Evernote desktop app
