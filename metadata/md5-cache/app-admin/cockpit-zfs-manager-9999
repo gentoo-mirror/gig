@@ -8,5 +8,5 @@ LICENSE=LGPL-3
 PROPERTIES=live
 RDEPEND=>=app-admin/cockpit-201 >=sys-fs/zfs-0.8
 SLOT=0
-_eclasses_=git-r3	97f7f638070d17e4c2b6542589bb4575
+_eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
 _md5_=ca4c722773fc83097457e4561ea5ddc8
