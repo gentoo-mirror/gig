@@ -6,7 +6,6 @@ acct-user/cockpit-ws 0: System user: cockpit-ws
 acct-user/cockpit-wsinstance 0: System user: cockpit-wsinstance
 acct-user/libvirtdbus 0: Libvirt D-Bus bridge
 acct-user/pcp 0: Performance Co-Pilot
-app-admin/cockpit 293 9999: Server Administration Web Interface
 app-admin/cockpit-benchmark 0.2.1 9999: A Storage Benchmark Utility for Cockpit.
 app-admin/cockpit-file-sharing 2.4.5 9999: A Cockpit plugin to easily manage samba and NFS file sharing.
 app-admin/cockpit-machines 266: This is the Cockpit user interface for virtual machines
@@ -22,7 +21,6 @@ app-metrics/pcp 6.0.4 9999: Performance Co-Pilot, system performance and analysi
 app-misc/1password 8.10.4: The world's most-loved password manager
 app-misc/notion-app-enhanced 2.0.18.1: Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux
 app-misc/tusk 0.23.0: Refined Evernote desktop app
-app-misc/urlview 0.9_p21: A curses URL parser for text files
 app-shells/shell-gpt 0.9.0: A command-line productivity tool powered by OpenAI's GPT models.
 dev-python/typer 0.7.0: Typer is a library for building CLI applications that users will love using and developers will love creating.
 dev-util/StarUML 3.2.2: A sophisticated software modeler for agile and concise modeling
@@ -44,6 +42,5 @@ sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen f
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/optimus-manager-qt 1.6.9: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
-x11-terms/termite 13 9999: A keyboard-centric VTE-based terminal
 x11-themes/materia-gtk-theme 20210322: Materia is a Material Design theme for GNOME/GTK based desktop environments.
 x11-themes/materia-kde 20220823: This is a port of the popular GTK theme Materia for the Plasma 5 desktop with a few additions and extras.
