@@ -24,6 +24,7 @@ app-misc/tusk 0.23.0: Refined Evernote desktop app
 app-shells/shell-gpt 0.9.0: A command-line productivity tool powered by OpenAI's GPT models.
 dev-python/typer 0.7.0: Typer is a library for building CLI applications that users will love using and developers will love creating.
 dev-util/StarUML 3.2.2: A sophisticated software modeler for agile and concise modeling
+dev-util/osc 1.3.1: openSUSE Commander (osc) is a command-line interface to the Open Build Service (OBS).
 games-board/majsoul-plus 2.0.0 2.0.1: A dedicated browser for Mahjong Majsoul, provides some proprietary features
 games-strategy/0ad-balanced-maps 2: 0ad balanced maps mod
 games-strategy/0ad-delenda-est 02: 0ad delenda est mod
