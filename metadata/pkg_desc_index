@@ -13,6 +13,7 @@ app-admin/cockpit-navigator 0.5.9 9999: A Featureful File Browser for Cockpit.
 app-admin/cockpit-zfs-manager 0.3.4.514 9999: Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 app-admin/openixcard 9999: Open Source Version of Allwinner PhoenixCard to Dump, Unpack, Flash Allwinner IMG Files on Linux
 app-crypt/archlinux-keyring 20200622: GnuPG keyring of Archlinux developer keys
+app-crypt/keybase-bin 6.2.2_p20230726175256: Client for keybase.io (binary version with GUI)
 app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Database
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
 app-emulation/libvirt-dbus 1.4.0: DBus protocol binding for libvirt native C API
