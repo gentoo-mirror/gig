@@ -22,6 +22,7 @@ app-metrics/pcp 6.0.4 9999: Performance Co-Pilot, system performance and analysi
 app-misc/1password 8.10.4: The world's most-loved password manager
 app-misc/notion-app-enhanced 2.0.18.1: Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux
 app-misc/tusk 0.23.0: Refined Evernote desktop app
+app-misc/urlview 0.9_p21: A curses URL parser for text files
 app-shells/shell-gpt 0.9.4: A command-line productivity tool powered by OpenAI's GPT models.
 dev-python/typer 0.7.0: Typer is a library for building CLI applications that users will love using and developers will love creating.
 dev-util/StarUML 3.2.2: A sophisticated software modeler for agile and concise modeling
