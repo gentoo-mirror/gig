@@ -47,6 +47,7 @@ sys-apps/pacman-mirrorlist 20200801: Repository list for Archlinux's binary pack
 sys-devel/arch-install-scripts 23: Scripts to aid in installing Arch Linux
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
+x11-misc/optimus-manager 1.5: Management utility to handle GPU switching for Optimus laptops
 x11-misc/optimus-manager-qt 1.6.9: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-themes/materia-gtk-theme 20210322: Materia is a Material Design theme for GNOME/GTK based desktop environments.
