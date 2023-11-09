@@ -24,6 +24,7 @@ app-emulation/looking-glass 0_beta5 0_beta6: A low latency KVM FrameRelay implem
 app-metrics/pcp 6.1.0 9999: Performance Co-Pilot, system performance and analysis framework
 app-misc/1password 8.10.18: The world's most-loved password manager
 app-misc/1password-cli 2.20.0: The world’s most-loved password manager CLI
+app-misc/bloop 0.5.7: bloop is ChatGPT for your code.
 app-misc/notion-app-enhanced 2.0.18.1: Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux
 app-misc/tusk 0.23.0: Refined Evernote desktop app
 app-misc/urlview 0.9_p21: A curses URL parser for text files
