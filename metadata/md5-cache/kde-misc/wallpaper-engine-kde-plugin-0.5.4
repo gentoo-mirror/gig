@@ -1,14 +1,14 @@
 BDEPEND=>=dev-vcs/git-1.8.2.1[curl] >=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=dev-util/cmake dev-util/vulkan-headers kde-plasma/plasma-workspace media-plugins/gst-plugins-libav media-video/mpv dev-lang/python dev-python/websockets dev-qt/qtdeclarative:5 dev-qt/qtwebsockets:5 dev-qt/qtwebchannel:5 app-arch/lz4 media-libs/mesa[vulkan,video_cards_radeonsi]
+DEPEND=dev-util/vulkan-headers kde-plasma/plasma-workspace media-plugins/gst-plugins-libav media-video/mpv[vulkan] dev-python/websockets dev-qt/qtdeclarative:5 dev-qt/qtwebsockets:5 dev-qt/qtwebchannel:5 app-arch/lz4 media-libs/mesa[vulkan]
 DESCRIPTION=A KDE wallpaper plugin integrating Wallpaper Engine
 EAPI=8
 HOMEPAGE=https://github.com/catsout/wallpaper-engine-kde-plugin
 INHERIT=git-r3 cmake
 KEYWORDS=~amd64 ~x86
-LICENSE=MIT
+LICENSE=GPL-2.0
 PROPERTIES=live
-RDEPEND=dev-util/cmake dev-util/vulkan-headers kde-plasma/plasma-workspace media-plugins/gst-plugins-libav media-video/mpv dev-lang/python dev-python/websockets dev-qt/qtdeclarative:5 dev-qt/qtwebsockets:5 dev-qt/qtwebchannel:5 app-arch/lz4 media-libs/mesa[vulkan,video_cards_radeonsi]
+RDEPEND=dev-util/vulkan-headers kde-plasma/plasma-workspace media-plugins/gst-plugins-libav media-video/mpv[vulkan] dev-python/websockets dev-qt/qtdeclarative:5 dev-qt/qtwebsockets:5 dev-qt/qtwebchannel:5 app-arch/lz4 media-libs/mesa[vulkan]
 SLOT=0
 _eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991	toolchain-funcs	edeef89edaf21d30225d31702ab117ac	multilib	c19072c3cd7ac5cb21de013f7e9832e0	flag-o-matic	baa4d385108ac87993edac956a916a36	multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	ninja-utils	39e7a84b06eff4efd9f2e0c3d1668b98	xdg-utils	baea6080dd821f5562d715887954c9d3	cmake	0f2e0c197fad0312f3c4765c9cf36271
-_md5_=d23fe93d38ea2cd862a63817909d8bcf
+_md5_=8de2419d1a0c9689eb8842cbd083a306
