@@ -15,4 +15,10 @@ app-metrics/pcp:ssp - Enable gcc stack-protector
 app-metrics/pcp:systemd - Support for systemd services
 games-board/majsoul-plus:file-deletion - Enable file deletion support
 games-board/majsoul-plus:xdg - Open URLs with desktop's default
+gui-wm/swayfx:X - Enable support for X11 applications (XWayland)
+gui-wm/swayfx:grimshot - Install 'grimshot': script for taking screenshots
+gui-wm/swayfx:swaybar - Install 'swaybar': sway's status bar component
+gui-wm/swayfx:swaynag - Install 'swaynag': shows a message with buttons
+gui-wm/swayfx:tray - Enable support for StatusNotifierItem tray specification
+gui-wm/swayfx:wallpapers - Install sway's default wallpaper image
 x11-misc/optimus-manager-qt:plasma - Enable support for plasma
