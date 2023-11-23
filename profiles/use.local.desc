@@ -15,6 +15,9 @@ app-metrics/pcp:ssp - Enable gcc stack-protector
 app-metrics/pcp:systemd - Support for systemd services
 games-board/majsoul-plus:file-deletion - Enable file deletion support
 games-board/majsoul-plus:xdg - Open URLs with desktop's default
+gui-apps/swaylock-effects:fish-completion - Enable fish completion support
+gui-apps/swaylock-effects:gdk-pixbuf - Enable additional image format support via the x11-libs/gdk-pixbuf library
+gui-apps/swaylock-effects:man - Build and install man pages
 gui-wm/swayfx:X - Enable support for X11 applications (XWayland)
 gui-wm/swayfx:grimshot - Install 'grimshot': script for taking screenshots
 gui-wm/swayfx:swaybar - Install 'swaybar': sway's status bar component
