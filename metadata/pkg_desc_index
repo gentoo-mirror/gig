@@ -37,7 +37,7 @@ games-strategy/0ad-balanced-maps 2: 0ad balanced maps mod
 games-strategy/0ad-delenda-est 02: 0ad delenda est mod
 games-strategy/0ad-zh-lang 0.0.23b: chinese support for 0ad
 gui-apps/swaylock-effects 1.6.4 9999: Swaylock, with fancy effects
-gui-wm/swayfx 0.2 0.3.2: SwayFX: Sway, but with eye candy!
+gui-wm/swayfx 0.3.2: SwayFX: Sway, but with eye candy!
 kde-misc/kde-rounded-corners 0.2.0: This effect rounds the corners of your windows and adds an outline around them without much affecting the performance of the KDE Plasma desktop
 kde-misc/wallpaper-engine-kde-plugin 0.5.4: A KDE wallpaper plugin integrating Wallpaper Engine
 media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
