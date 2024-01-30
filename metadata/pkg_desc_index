@@ -15,7 +15,6 @@ app-admin/cockpit-machines 266: This is the Cockpit user interface for virtual m
 app-admin/cockpit-navigator 0.5.9 9999: A Featureful File Browser for Cockpit.
 app-admin/cockpit-zfs-manager 0.3.4.514 9999: Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 app-admin/openixcard 9999: Open Source Version of Allwinner PhoenixCard to Dump, Unpack, Flash Allwinner IMG Files on Linux
-app-crypt/archlinux-keyring 20200622: GnuPG keyring of Archlinux developer keys
 app-crypt/keybase-bin 6.2.2_p20230726175256: Client for keybase.io (binary version with GUI)
 app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Database
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
@@ -47,11 +46,7 @@ net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
 net-proxy/v2rayxplus 1.0.0: A v2ray GUI client written in GO
-sys-apps/pacman 5.2.2: Archlinux's binary package manager
-sys-apps/pacman-mirrorlist 20200801: Repository list for Archlinux's binary package manager
-sys-devel/arch-install-scripts 23: Scripts to aid in installing Arch Linux
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
-x11-misc/hardcode-tray 4.3: Fixes Hardcoded tray icons in Linux
 x11-misc/optimus-manager 1.5: Management utility to handle GPU switching for Optimus laptops
 x11-misc/optimus-manager-qt 1.6.9: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
