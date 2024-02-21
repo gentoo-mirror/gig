@@ -3,7 +3,7 @@
 
 EAPI=8
 
-inherit cmake
+inherit cmake systemd
 
 DESCRIPTION="Another virtual private network that supports peer-to-peer connections"
 HOMEPAGE="https://github.com/lanthora/candy"
@@ -28,4 +28,19 @@ src_prepare() {
 	eapply "${FILESDIR}/${P}-use-system-ixwebsocket.patch"
 	cmake_src_prepare
 	default
+}
+
+src_configure() {
+	local mycmakeargs=(
+		-DBUILD_SHARED_LIBS=OFF
+	)
+	cmake_src_configure
+}
+
+src_install(){
+	cmake_src_install
+	default
+
+	systemd_dounit candy.service
+	systemd_dounit candy@.service
 }
