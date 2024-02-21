@@ -14,15 +14,17 @@ SLOT="0"
 KEYWORDS="~*"
 
 DEPEND="
-	dev-libs/spdlog
 	dev-libs/uriparser
 	dev-libs/libconfig
 	net-libs/ixwebsocket[ws]
 	dev-libs/openssl
 	sys-libs/zlib
+	dev-libs/libfmt
 "
 RDEPEND="${DEPEND}"
-BDEPEND=""
+BDEPEND="
+	dev-libs/spdlog
+"
 
 src_prepare() {
 	eapply "${FILESDIR}/${P}-use-system-ixwebsocket.patch"
@@ -40,6 +42,10 @@ src_configure() {
 src_install(){
 	cmake_src_install
 	default
+
+	insinto /etc
+	doins candy.conf
+	fperms 0644 /etc/candy.conf
 
 	systemd_dounit candy.service
 	systemd_dounit candy@.service
