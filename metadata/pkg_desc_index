@@ -44,6 +44,7 @@ net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
 net-proxy/v2rayxplus 1.0.0: A v2ray GUI client written in GO
+net-vpn/candy 3.9.1: Another virtual private network that supports peer-to-peer connections
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 x11-misc/optimus-manager 1.5: Management utility to handle GPU switching for Optimus laptops
 x11-misc/optimus-manager-qt 1.6.9: Qt-based interface for Optimus Manager
