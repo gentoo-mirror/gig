@@ -20,24 +20,11 @@ DEPEND="
 	dev-libs/openssl
 	sys-libs/zlib
 	dev-libs/libfmt
+	dev-libs/spdlog
 "
 RDEPEND="${DEPEND}"
 BDEPEND="
-	dev-libs/spdlog
 "
-
-src_prepare() {
-	eapply "${FILESDIR}/${P}-use-system-ixwebsocket.patch"
-	cmake_src_prepare
-	default
-}
-
-src_configure() {
-	local mycmakeargs=(
-		-DBUILD_SHARED_LIBS=OFF
-	)
-	cmake_src_configure
-}
 
 src_install(){
 	cmake_src_install
