@@ -41,6 +41,7 @@ kde-misc/wallpaper-engine-kde-plugin 0.5.4: A KDE wallpaper plugin integrating W
 media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
 media-gfx/printrun 9999: Printrun is a 3D printing host software suite which talks to your printer and handles the printing process
 media-libs/libmali 1.9: THE MALI USERSPACE DRIVER (Mali DRIVER)
+media-libs/libmali-dri2to3 1.0.5: This is a library implementing DRI2 on top of DRI3 for running Mali blob X11 drivers under Xwayland
 net-fs/clouddrive 0.6.7: CloudDrive - Unlocking the Unlimited Possibilities of Cloud Storage
 net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
