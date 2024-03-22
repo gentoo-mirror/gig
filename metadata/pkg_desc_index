@@ -43,6 +43,7 @@ media-gfx/printrun 9999: Printrun is a 3D printing host software suite which tal
 media-libs/libmali 1.9: THE MALI USERSPACE DRIVER (Mali DRIVER)
 media-libs/libmali-dri2to3 1.0.5: This is a library implementing DRI2 on top of DRI3 for running Mali blob X11 drivers under Xwayland
 net-fs/clouddrive 0.6.7: CloudDrive - Unlocking the Unlimited Possibilities of Cloud Storage
+net-misc/modem-manager-gui 0.0.20: Modem Manager GUI is a simple GTK based graphical interface
 net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.

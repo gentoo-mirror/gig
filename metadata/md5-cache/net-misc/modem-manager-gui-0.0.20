@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DEPEND=app-text/po4a dev-util/itstool app-text/gtkspell:3 x11-libs/libnotify dev-libs/libayatana-appindicator net-misc/ofono
+DESCRIPTION=Modem Manager GUI is a simple GTK based graphical interface
+EAPI=8
+HOMEPAGE=https://sourceforge.net/projects/modem-manager-gui/
+KEYWORDS=~arm64 ~amd64
+LICENSE=GPL-3
+RDEPEND=app-text/po4a dev-util/itstool app-text/gtkspell:3 x11-libs/libnotify dev-libs/libayatana-appindicator net-misc/ofono
+SLOT=0
+SRC_URI=https://jaist.dl.sourceforge.net/project/modem-manager-gui/modem-manager-gui-0.0.20.tar.gz -> modem-manager-gui-0.0.20.tar.gz
+_md5_=03b3c51542877ccfbdd6e8a23d298052
