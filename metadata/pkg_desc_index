@@ -40,9 +40,11 @@ kde-misc/kde-rounded-corners 0.2.0: This effect rounds the corners of your windo
 kde-misc/wallpaper-engine-kde-plugin 0.5.4: A KDE wallpaper plugin integrating Wallpaper Engine
 media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
 media-gfx/printrun 9999: Printrun is a 3D printing host software suite which talks to your printer and handles the printing process
+media-libs/libdrm-cursor 1.4.1: Fake cursor plane with regular drm plane.
 media-libs/libmali 1.9: THE MALI USERSPACE DRIVER (Mali DRIVER)
 media-libs/libmali-dri2to3 1.0.5: This is a library implementing DRI2 on top of DRI3 for running Mali blob X11 drivers under Xwayland
 media-libs/mali-g610-firmware 1.0.2: mali g610 firmware
+media-libs/mesa 23.0.5: OpenGL-like graphic library for Linux(Mali-G610 only)
 net-fs/clouddrive 0.6.7: CloudDrive - Unlocking the Unlimited Possibilities of Cloud Storage
 net-misc/modem-manager-gui 0.0.20: Modem Manager GUI is a simple GTK based graphical interface
 net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
