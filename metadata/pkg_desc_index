@@ -41,13 +41,12 @@ media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
 media-gfx/printrun 9999: Printrun is a 3D printing host software suite which talks to your printer and handles the printing process
 media-libs/mali-g610-firmware 1.0.2: mali g610 firmware
 media-libs/mesa 23.0.5: OpenGL-like graphic library for Linux(Mali-G610 only)
-net-fs/clouddrive 0.6.10: CloudDrive - Unlocking the Unlimited Possibilities of Cloud Storage
+net-fs/clouddrive 0.6.11: CloudDrive - Unlocking the Unlimited Possibilities of Cloud Storage
 net-misc/modem-manager-gui 0.0.20: Modem Manager GUI is a simple GTK based graphical interface
 net-proxy/frp-bin 0.32.0: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 net-proxy/simple-obfs 0.0.5: A simple obfuscating tool
 net-proxy/v2ray 4.22.1: A platform for building proxies to bypass network restrictions.
 net-proxy/v2rayxplus 1.0.0: A v2ray GUI client written in GO
-net-vpn/candy 4.1: Another virtual private network that supports peer-to-peer connections
 sys-fs/gocryptfs 2.4.0-r1: Encrypted overlay filesystem written in Go
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
 x11-misc/optimus-manager 1.5: Management utility to handle GPU switching for Optimus laptops
