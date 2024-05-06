@@ -1,4 +1,4 @@
-BDEPEND=|| ( >=app-text/stardict-2.4.2 app-text/sdcv ) zlib? ( app-arch/gzip app-text/dictd )
+BDEPEND=app-text/sdcv zlib? ( app-arch/gzip app-text/dictd )
 DEFINED_PHASES=compile install
 DESCRIPTION=Free English to Chinese Dictionary Database
 EAPI=8
@@ -11,5 +11,5 @@ REQUIRED_USE=gzip
 RESTRICT=strip
 SLOT=0
 SRC_URI=https://github.com/skywind3000/ECDICT/releases/download/1.0.28/ecdict-stardict-28.zip -> stardict-ecdict-en-zh-1.0.28.zip
-_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	stardict	4d73386bfcaa4ea5b21fe0d01e8b4a7d
+_eclasses_=edo	c0eb9cbe6b0bd01fcb4918f12598a4d3	stardict	fa190c2cfa280c7f5b3149123d3f8a36
 _md5_=11e7f8d7ee0d8ac810ae5b03924ed7ae
