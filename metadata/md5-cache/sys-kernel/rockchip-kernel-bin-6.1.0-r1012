@@ -1,4 +1,4 @@
-BDEPEND=virtual/libelf test? ( dev-tcltk/expect sys-apps/coreutils sys-kernel/dracut sys-fs/e2fsprogs amd64? ( app-emulation/qemu[qemu_softmmu_targets_x86_64] ) arm64? ( app-emulation/qemu[qemu_softmmu_targets_aarch64] ) ppc? ( app-emulation/qemu[qemu_softmmu_targets_ppc] ) ppc64? ( app-emulation/qemu[qemu_softmmu_targets_ppc64] ) sparc? ( app-emulation/qemu[qemu_softmmu_targets_sparc,qemu_softmmu_targets_sparc64] ) x86? ( app-emulation/qemu[qemu_softmmu_targets_i386] ) )
+BDEPEND=test? ( dev-tcltk/expect sys-apps/coreutils sys-kernel/dracut sys-fs/e2fsprogs amd64? ( app-emulation/qemu[qemu_softmmu_targets_x86_64] ) arm64? ( app-emulation/qemu[qemu_softmmu_targets_aarch64] ) ppc? ( app-emulation/qemu[qemu_softmmu_targets_ppc] ) ppc64? ( app-emulation/qemu[qemu_softmmu_targets_ppc64] ) sparc? ( app-emulation/qemu[qemu_softmmu_targets_sparc,qemu_softmmu_targets_sparc64] ) x86? ( app-emulation/qemu[qemu_softmmu_targets_i386] ) )
 DEFINED_PHASES=config install postinst postrm preinst prerm pretend test unpack
 DESCRIPTION=Rockchip BSP Kernel
 EAPI=8
@@ -8,10 +8,9 @@ INHERIT=unpacker kernel-install
 IUSE=+initramfs test
 KEYWORDS=~arm64
 LICENSE=GPL-2.0
-PDEPEND=>=virtual/dist-kernel-6.1.0
 RDEPEND=virtual/libelf
 RESTRICT=!test? ( test ) test? ( userpriv ) arm? ( test )
 SLOT=0
 SRC_URI=https://ppa.launchpadcontent.net/jjriek/rockchip/ubuntu/pool/main/l/linux-rockchip/linux-rockchip-headers-6.1.0-1012_6.1.0-1012.12_arm64.deb https://ppa.launchpadcontent.net/jjriek/rockchip/ubuntu/pool/main/l/linux-rockchip/linux-headers-6.1.0-1012-rockchip_6.1.0-1012.12_arm64.deb https://ppa.launchpadcontent.net/jjriek/rockchip/ubuntu/pool/main/l/linux-rockchip/linux-image-6.1.0-1012-rockchip_6.1.0-1012.12_arm64.deb https://ppa.launchpadcontent.net/jjriek/rockchip/ubuntu/pool/main/l/linux-rockchip/linux-modules-6.1.0-1012-rockchip_6.1.0-1012.12_arm64.deb
 _eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	7b40f3faa3e2e12f5cf6d36d0fbfcd09	dist-kernel-utils	145861da258122cbba5240a850f1a5e8	mount-boot	3945d351ee3192381911f938f4ee527a	kernel-install	8b3f309ac423799839f1fb3253b473b8
-_md5_=070e376bc2c29b6c1659b3fabe0ec333
+_md5_=632de35ee194baa555c66268688c41aa
