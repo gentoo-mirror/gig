@@ -35,7 +35,7 @@ games-strategy/0ad-balanced-maps 2: 0ad balanced maps mod
 games-strategy/0ad-delenda-est 02: 0ad delenda est mod
 games-strategy/0ad-zh-lang 0.26.1: Chinese Fonts and Translations For 0ad
 gui-apps/swaylock-effects 1.6.4 9999: Swaylock, with fancy effects
-kde-misc/kde-rounded-corners 0.2.0: This effect rounds the corners of your windows and adds an outline around them without much affecting the performance of the KDE Plasma desktop
+kde-misc/kde-rounded-corners 0.6.5: This effect rounds the corners of your windows and adds an outline around them without much affecting the performance of the KDE Plasma desktop
 kde-misc/wallpaper-engine-kde-plugin 0.5.4: A KDE wallpaper plugin integrating Wallpaper Engine
 media-gfx/colorpicker 1.0.5: A color picker for elementaryOS.
 media-gfx/printrun 9999: Printrun is a 3D printing host software suite which talks to your printer and handles the printing process
