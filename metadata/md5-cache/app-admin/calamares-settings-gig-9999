@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=calamares settings for Gig OS
+EAPI=8
+HOMEPAGE=https://github.com/Gig-OS/calamares-settings-gig
+INHERIT=git-r3
+LICENSE=MIT
+PROPERTIES=live
+RDEPEND=app-admin/calamares sys-fs/btrfs-progs sys-fs/dosfstools sys-fs/squashfs-tools[lzma]
+SLOT=0
+_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1
+_md5_=520e0a3ade09162a932adb3aae50be2b
