@@ -16,7 +16,7 @@ jobs:
   nvchecker:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/Gig-OS/gentoo-testing:master
+      image: ghcr.io/gig-os/gentoo-testing:master
 
     steps:
     - name: checkout
