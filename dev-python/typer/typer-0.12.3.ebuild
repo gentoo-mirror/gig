@@ -3,7 +3,7 @@
 
 EAPI=8
 
-DISTUTILS_USE_PEP517=flit
+DISTUTILS_USE_PEP517=pdm-backend
 PYTHON_COMPAT=( python3_{9..13} )
 inherit distutils-r1
 
@@ -18,7 +18,8 @@ LICENSE="MIT"
 SLOT="0"
 KEYWORDS="~amd64"
 
-BDEPEND="
+DEPEND="
+	dev-python/pdm
 	dev-python/click
 "
 
