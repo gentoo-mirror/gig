@@ -9,5 +9,5 @@ LICENSE=AGPL-3
 RDEPEND=x11-libs/gtk+:3 x11-libs/libXScrnSaver dev-libs/nss xdg? ( x11-misc/xdg-utils ) file-deletion? ( app-misc/trash-cli kde-plasma/kde-cli-tools )
 SLOT=0
 SRC_URI=x86? ( https://github.com/MajsoulPlus/majsoul-plus/releases/download/v2.0.0/Majsoul_Plus-2.0.0-linux-ia32.tar.gz -> Majsoul_Plus-2.0.0.tar.gz ) amd64? ( https://github.com/MajsoulPlus/majsoul-plus/releases/download/v2.0.0/Majsoul_Plus-2.0.0-linux-x64.tar.gz -> Majsoul_Plus-2.0.0.tar.gz )
-_eclasses_=desktop	56973babb9c5f19cab0eeb53ece644c6
+_eclasses_=desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
 _md5_=4dcde0072cf36c5aa181e08b032a63cb
