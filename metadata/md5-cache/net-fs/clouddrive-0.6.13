@@ -10,5 +10,5 @@ LICENSE=all-rights-reserved
 RDEPEND=sys-fs/fuse
 SLOT=0
 SRC_URI=amd64? ( https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.6.13/clouddrive-2-linux-x86_64-0.6.13.tgz -> clouddrive-0.6.13-x86_64.tar.gz ) arm64? ( https://github.com/cloud-fs/cloud-fs.github.io/releases/download/v0.6.13/clouddrive-2-linux-aarch64-0.6.13.tgz -> clouddrive-0.6.13-arm64.tar.gz )
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	54bd206bb5c4efac6ae28b6b006713b0
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	systemd	a964c0cbe818b5729da1dbfcee5be861
 _md5_=dd0e559e7cebbd8e9caf6cd38338f483
