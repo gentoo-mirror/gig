@@ -10,10 +10,6 @@ acct-user/libvirtdbus 0: Libvirt D-Bus bridge
 acct-user/pcp 0: Performance Co-Pilot
 app-admin/calamares-settings-gig 9999: calamares settings for Gig OS
 app-admin/cockpit 303 9999: Server Administration Web Interface
-app-admin/cockpit-benchmark 0.2.1 9999: A Storage Benchmark Utility for Cockpit.
-app-admin/cockpit-file-sharing 2.4.5 9999: A Cockpit plugin to easily manage samba and NFS file sharing.
-app-admin/cockpit-machines 266: This is the Cockpit user interface for virtual machines
-app-admin/cockpit-navigator 0.5.9 9999: A Featureful File Browser for Cockpit.
 app-admin/cockpit-zfs-manager 0.3.4.514 9999: Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 app-admin/openixcard 9999: Open Source Version of Allwinner PhoenixCard to Dump, Unpack, Flash Allwinner IMG Files on Linux
 app-crypt/keybase-bin 6.2.2_p20230726175256: Client for keybase.io (binary version with GUI)
