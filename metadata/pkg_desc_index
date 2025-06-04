@@ -17,7 +17,6 @@ app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Datab
 app-dicts/translator 9999: Command line aggregation translation tool, support Google, Bing, Youdao, etc
 app-emulation/libvirt-dbus 1.4.0: DBus protocol binding for libvirt native C API
 app-emulation/looking-glass 0_beta5 0_beta6: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
-app-metrics/pcp 6.1.0 9999: Performance Co-Pilot, system performance and analysis framework
 app-misc/1password 8.10.32: The world's most-loved password manager
 app-misc/1password-cli 2.27.0: The world’s most-loved password manager CLI
 app-misc/notion-app-enhanced 2.0.18.1: Notion Desktop builds with Notion Enhancer for Windows, MacOS and Linux
@@ -47,7 +46,6 @@ net-proxy/v2rayxplus 1.0.0: A v2ray GUI client written in GO
 sys-fs/gocryptfs 2.4.0-r1: Encrypted overlay filesystem written in Go
 sys-kernel/rockchip-kernel-bin 6.1.0-r1012: Rockchip BSP Kernel
 sys-kernel/zenpower 0.1.12: Linux kernel driver for reading sensors of AMD Zen family CPUs
-x11-misc/optimus-manager 1.5: Management utility to handle GPU switching for Optimus laptops
 x11-misc/optimus-manager-qt 1.6.9: Qt-based interface for Optimus Manager
 x11-misc/polybar 3.1.0: A fast and easy-to-use status bar
 x11-themes/materia-gtk-theme 20210322: Materia is a Material Design theme for GNOME/GTK based desktop environments.
