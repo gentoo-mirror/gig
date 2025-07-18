@@ -37,7 +37,6 @@ src_prepare() {
 	# Modify .desktop file
 	sed -i \
 		-e "s:Exec=${MY_PN}:Exec=${PN_NOBIN}:g" \
-		-e "s:Icon=${MY_PN}:Icon=${PN_NOBIN}:g" \
 		-e "/^Name=/a Categories=Network;" \
 		"${S}/usr/share/applications/${MY_PN}.desktop" || die
 }
