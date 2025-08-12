@@ -1,15 +1,7 @@
-acct-group/cockpit-ws 0: System group: cockpit-ws
-acct-group/cockpit-wsinstance 0: System group: cockpit-wsinstance
 acct-group/libvirtdbus 0: System group: libvirtdbus
 acct-group/onepassword-cli 0: System group: onepassword-cli
-acct-group/pcp 0: System group: pcp
-acct-user/cockpit-ws 0: System user: cockpit-ws
-acct-user/cockpit-wsinstance 0: System user: cockpit-wsinstance
 acct-user/libvirtdbus 0: Libvirt D-Bus bridge
-acct-user/pcp 0: Performance Co-Pilot
 app-admin/calamares-settings-gig 9999: calamares settings for Gig OS
-app-admin/cockpit 303 9999: Server Administration Web Interface
-app-admin/cockpit-zfs-manager 0.3.4.514 9999: Cockpit ZFS Manager is an interactive ZFS on Linux admin package for Cockpit.
 app-admin/openixcard 9999: Open Source Version of Allwinner PhoenixCard to Dump, Unpack, Flash Allwinner IMG Files on Linux
 app-crypt/keybase-bin 6.2.2_p20230726175256: Client for keybase.io (binary version with GUI)
 app-dicts/stardict-ecdict-en-zh 1.0.28: Free English to Chinese Dictionary Database

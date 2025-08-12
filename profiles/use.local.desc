@@ -2,17 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-admin/cockpit:debug - Enables debug information
-app-admin/cockpit:firewalld - Firewall support
-app-admin/cockpit:pcp - Uses the Performance Co-Pilot framework to gather metrics data about the system
-app-admin/cockpit:tuned - Use Tuned set system performance profiles
-app-metrics/pcp:discovery - Support for service discovery
-app-metrics/pcp:doc - Enable building of the PCP books
-app-metrics/pcp:infiniband - Support for inifiniband metrics
-app-metrics/pcp:perfevent - Perfevent pmda
-app-metrics/pcp:pie - Build position-independent-executable
-app-metrics/pcp:ssp - Enable gcc stack-protector
-app-metrics/pcp:systemd - Support for systemd services
 games-board/majsoul-plus:file-deletion - Enable file deletion support
 games-board/majsoul-plus:xdg - Open URLs with desktop's default
 gui-apps/swaylock-effects:fish-completion - Enable fish completion support
